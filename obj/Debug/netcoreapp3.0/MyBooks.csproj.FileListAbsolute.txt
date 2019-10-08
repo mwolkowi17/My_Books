@@ -130,3 +130,13 @@ C:\Users\Marcin\source\repos\MyBooks\obj\Debug\netcoreapp3.0\Razor\Pages\Books\D
 C:\Users\Marcin\source\repos\MyBooks\obj\Debug\netcoreapp3.0\Razor\Pages\Books\Edit.cshtml.g.cs
 C:\Users\Marcin\source\repos\MyBooks\obj\Debug\netcoreapp3.0\Razor\Pages\Books\Index.cshtml.g.cs
 C:\Users\Marcin\source\repos\MyBooks\obj\Debug\netcoreapp3.0\Razor\Pages\O_Mnie.cshtml.g.cs
+C:\Users\Marcin\source\repos\MyBooks\obj\Debug\netcoreapp3.0\Razor\Pages\Cds\Create.cshtml.g.cs
+C:\Users\Marcin\source\repos\MyBooks\obj\Debug\netcoreapp3.0\Razor\Pages\Cds\Delete.cshtml.g.cs
+C:\Users\Marcin\source\repos\MyBooks\obj\Debug\netcoreapp3.0\Razor\Pages\Cds\Details.cshtml.g.cs
+C:\Users\Marcin\source\repos\MyBooks\obj\Debug\netcoreapp3.0\Razor\Pages\Cds\Edit.cshtml.g.cs
+C:\Users\Marcin\source\repos\MyBooks\obj\Debug\netcoreapp3.0\Razor\Pages\Cds\Index.cshtml.g.cs
+C:\Users\Marcin\source\repos\MyBooks\obj\Debug\netcoreapp3.0\Razor\Pages\Films\Create.cshtml.g.cs
+C:\Users\Marcin\source\repos\MyBooks\obj\Debug\netcoreapp3.0\Razor\Pages\Films\Delete.cshtml.g.cs
+C:\Users\Marcin\source\repos\MyBooks\obj\Debug\netcoreapp3.0\Razor\Pages\Films\Details.cshtml.g.cs
+C:\Users\Marcin\source\repos\MyBooks\obj\Debug\netcoreapp3.0\Razor\Pages\Films\Edit.cshtml.g.cs
+C:\Users\Marcin\source\repos\MyBooks\obj\Debug\netcoreapp3.0\Razor\Pages\Films\Index.cshtml.g.cs
